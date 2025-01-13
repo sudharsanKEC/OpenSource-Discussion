@@ -1,0 +1,104 @@
+Actually this full documentation was about , how my understanding on open sources changes from my initial understanding of it to the complete undetsanding of it
+It was all referred and learned from Payilagam youtube channel. Thanks to payilaga.
+Don't forget to read the conclusion of this documentation about open source
+===============================================================================================================================
+Open source - Using for free without license
+   The term open source for first coined by Richard Stallman(RS)
+Personalities and their own websites
+    Richard Stallman- stallman.org
+    Bill Gates-Gates Notes
+
+  While RS working in the UNIX team
+  He faced a need for changing the page size of the print xerox sheet.
+  So he decides to code the xerox machine by his own.
+  While he asked for the dumped code in printing machine his collegous said that we bought the machine
+but they did not give the code that is coded in the machine.
+  So he admitted that the source code should be open source because we have the right to know the things
+in our own products.
+  So at that time he coined the term open source
+  So after that he quit UNIX and start a canvas for the open source contribution. 
+  That is every product that we use, we should able to see the source code in it.
+  So, the product's code which was visible to the its users that is called open source.
+
+Community driven vs corporate driven:
+
+Community driven :
+            Open source, a group of people can contribute it to its development.
+            Aligned with community  & user needs
+            Eg: Python(community : Python software foundation)
+                Ruby(Ruby community)
+                Perl(Perl community)
+Corporate driven : 
+            Not completely open source, modifications and updates are made by a single company who owns it
+            Aligned with corporate goals
+            Eg: Java(Oracle owns and standards java)
+                c#,Typescript->Microsoft
+                Golang,Dart->Google
+                R-> R Foundation Heavily supported by microsoft 
+                Swift(Apple)
+                
+
+Partially open source - some parts of the code or project is open source, others are proprietary
+Very common open sources:
+    1)Android(AOSP by google partially open source)
+    2)Google(Proprietary with open source contribution)
+    3)Chrome(partially open source)
+    4)Instagram- no ,not an open source 
+    5)DEV.to(open source)
+    6)Telegram(partially open source, server side code is proprietary)
+    7)Java(Open source until core java)
+    8)Python(Completely open source)
+    9)Angular(open source)
+    10)React(open source)
+    11)PHP(open source)
+    12)VLC(open source)
+    13)LINUX(open source)
+
+How the open source product earns:
+  Redhat(Part of IBM)
+  Red Hat Enterprise Linux(RHEL) is a open source software, that is their source code is freely available to everyone
+  Anyone can access the source code and modify it according to their needs, thats how CentOS and Rocky Linux exists
+They are built from the same source code of RHEL.
+They redhat linux earns by the subscription,support,services,enterprise tools and redhat certifications like
+RHCE-Red Hat Certified Expert
+
+
+To understand it better lets go to the microsoft, it was not an open source software its codes are not accessible to its users
+
+Open Source final definition : The meaning of open source is not completely free, but the products code which
+are visible to its users are said to be an open source software.
+
+So every users have the right to view their software's code, which must be an open source
+The prevention of open source for its users is human right violation
+                                                            - Richard Stallman
+
+Free Software Foundations(FSF)
+
+FSFTN - Free Software Foundations TamilNadu 
+
+ After the push by FSF:
+    Microsoft has released vs code as open source, c sharp as open source,github
+    Google-Angular
+    React- Facebook
+
+My techniacl hobbby:
+    Listening to technology discussion podcasts
+    Other articles, youtube videos about IT company politics, history of IT and IT industries, AI, evolving technologies etc...
+
+Why Open source:
+          A large part of communities contribution will lead to the out performing modern technologies
+          Its like, working as team leads to greater developments.
+
+==============================================================================================================================================
+
+Conclusion:
+      At first I thought that open source is like the free softwares which we use without paying like java, python
+      Later I realised that, open source means the softwares which has its source code opened for its users is called open source
+      Open source includes both completely open source and partially open source
+      I had learned about Richard Stallman and his own website stallman.org and also Billgate's gatesnotes
+      I had heard about dev.to, FSF,FSF India and FSFTN.
+      I have realised that , what are the technical hobbies I have.
+      Here I completely conclude this documentation.
+      Once again thanks to Payilagam and MuthuRamalingam sir.
+
+
